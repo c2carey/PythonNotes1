@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonNotes1", "PythonNotes1\PythonNotes1.pyproj", "{062642B3-E66F-44DD-B9A8-0587CAB87419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{062642B3-E66F-44DD-B9A8-0587CAB87419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062642B3-E66F-44DD-B9A8-0587CAB87419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A141C9EE-92C6-415D-BEBE-D41946838FA5}
+	EndGlobalSection
+EndGlobal
